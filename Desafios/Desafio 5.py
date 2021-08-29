@@ -1,0 +1,12 @@
+print('BEM VINDO AO DESAFIO 4')
+
+palavra = input('Escreva algo para analisar:')
+print('Sua palavra é {}'.format(palavra))
+print('sua palavra é alfabetica:', palavra.isalpha())
+print('Sua palavra é numerica:', palavra.isnumeric())
+print('Sua palavra é alfanumerica:', palavra.isalnum())
+print('Sua palavra é decimal:', palavra.isdecimal())
+print('Sua palavra é grande:', palavra.isupper())
+print('Sua palavra é pequena:', palavra.islower())
+print('Sua palavra é um digito:', palavra.isdigit())
+print('Esse é o tipo da sua palavra:', type(palavra))

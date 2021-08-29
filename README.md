@@ -1,2 +1,3 @@
 # Python
- Minhas aulas de python e meu progresso.
+ Meus exercicios de python e meu progresso.
+ Algumas dos exercicios não estão funcionando.
